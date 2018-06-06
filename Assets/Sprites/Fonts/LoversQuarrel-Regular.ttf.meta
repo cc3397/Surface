@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: ea0a4d6af53f5d24facc3d12bbc61bab
+timeCreated: 1520429248
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Lovers Quarrel
+  fontNames:
+  - Lovers Quarrel
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
